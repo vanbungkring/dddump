@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"wizhop-dev.products"},{"v":2,"unique":true,"key":{"sku":1},"name":"sku_1","ns":"wizhop-dev.products","background":true},{"v":2,"key":{"barcode":1},"name":"barcode_1","ns":"wizhop-dev.products"}],"uuid":"849349a442e245a2995ad541a6541578"}
